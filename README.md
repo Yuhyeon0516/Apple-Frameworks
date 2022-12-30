@@ -9,7 +9,7 @@ The design previously composed of UICollectionViewDataSource & UICollectionViewF
 
  
 - AppleFramework_Modality :
-In connection with Modality & Safari, it has been changed to display the framework information when the framework is touched.
+In connection with Modality & Safari, it has been changed to display the framework information when the framework touched.
 
 
 AppleFramework Modality Video
