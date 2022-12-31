@@ -12,6 +12,9 @@ The design previously composed of UICollectionViewDataSource & UICollectionViewF
 In connection with Modality & Safari, it has been changed to display the framework information when the framework touched.
 
 
+- AppleFramework_Combine :
+I tried changing it to an asynchronous processing method.
+
 AppleFramework Modality Video
 
 
