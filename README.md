@@ -15,6 +15,10 @@ In connection with Modality & Safari, it has been changed to display the framewo
 - AppleFramework_Combine :
 I tried changing it to an asynchronous processing method.
 
+
+- AppleFramework_Combine_MVVM :
+I changed from MVC pattern to MVVM pattern.
+
 AppleFramework Modality Video
 
 
