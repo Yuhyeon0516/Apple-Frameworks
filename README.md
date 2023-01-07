@@ -25,6 +25,9 @@ I tried to recreate the symbolroller with SwiftUI
 - AppleFramework-SwiftUI-Modality :
 I recreated "AppleFramework_Modality" with SwiftUI
 
+- AppleFramework_UIKit+SwiftUI : 
+I merged SwiftUI detail view with UIKit main view.
+
 AppleFramework Modality Video
 
 
